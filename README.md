@@ -10,6 +10,8 @@ It contains a step-by-step analysis of the algorithm as well as some experiments
 - SciPy
 - Pillow
 
+cf. [requitements](./requirements.pip)
+
 ## Citation
 ```
 @Article{Lowe2004,
